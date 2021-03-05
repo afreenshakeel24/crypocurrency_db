@@ -7,7 +7,7 @@ Point form is fine, but you should use the following format:
 ## Group Work
 
 #### Milestone 1
-- Write something
+- 
 
 #### Milestone 2
 - Write something
