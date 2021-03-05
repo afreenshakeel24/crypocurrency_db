@@ -1,6 +1,6 @@
 # crypocurrency_db
 
-The app contains an executive dashbaord to give the high level summary of the cryptocurrency. This summary will contain the weekly performance like average market cap, best cryptocurrency of the week, upcoming cryptocurrency etc.
+The app contains an executive dashbaord to give the high level summary of the cryptocurrency. This summary will contain the weekly performance like average market cap, best 5 cryptocurrency of the week, upcoming cryptocurrency etc.
 
 Below the summary we will have filter(drop down)/check box/tree chart to drill down individual cryptocurrency and month and year to see Month on Month comparison.
 
