@@ -10,3 +10,5 @@ We also plan to incorporate a mini histogram with last 7 days of data. We want t
 
 We will also include a exchange rate table with 5 popular currency (CAD, INR, YEN, CNY, USD) so that people wish to transact with so that if an individual is interested in a particular cryptocurrency, he/she/they should know how much to dig in their pockets. 
 
+
+Click to view the [wireframe](Cyrpto_template.png)
